@@ -7,4 +7,6 @@ ICTP PWF: Physics for Bangladesh Online Summer Internship (https://indico.ictp.i
 
 Building on the my basics of GR and Cosmology attained from PWF Bangladesh: School on General Relativity and Cosmology (https://indico.ictp.it/event/11010/), I studied inflationary backgrounds and quantum fluctuations, and developed a Python package to automatically generate numerical results for arbitrary slow-roll models. 
 
+_inflation.py_ contains the main package.
+
 Open to suggestions about how to improve and refine this package for more complex types of inflationary models.
