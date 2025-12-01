@@ -1,6 +1,4 @@
-ICTP PWF: Physics for Bangladesh Online Summer Internship 
-
-**Program Link:** https://indico.ictp.it/event/11042
+ICTP PWF: Physics for Bangladesh Online Summer Internship (https://indico.ictp.it/event/11042)
 
 **Supervisor:** Rafid Mahbub, Ph.D. in Physics, University of Minnesota-Twin Cities 
 
